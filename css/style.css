@@ -1,0 +1,105 @@
+.top {
+  background-color: #a6b1e1;
+}
+
+body {
+  margin: 0 ;
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+}
+
+h1 {
+  font-size: 312.5%;
+  color: #424874;
+  width: 20%;
+  margin: 0 auto 0 auto;
+}
+
+.Mech {
+  margin: 0 auto 0 auto;
+}
+
+.cloud1 {
+  background-color: #a6b1e1;
+  position: absolute;
+  right: 200px;
+  top: auto;
+}
+
+.profilephoto {
+  border-radius: 50%;
+  width: 250px;
+}
+
+.cod {
+width: 250px;
+float: left;
+margin-right: 30px;
+}
+
+.football {
+  width: 250px;
+float: right;
+margin-left: 30px;
+}
+
+.pc {
+
+  width: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.anime {
+  width: 250px;
+  float: right;
+  margin-left: 30px;
+}
+
+.mid {
+  margin: 0;
+  background-color: #dcd6f7;
+}
+
+.bottom {
+ margin: 0;
+  background-color: #f4eeff;
+}
+
+h4 {
+  color: #424874;
+}
+
+h3 {
+  color: #424874;
+}
+h2 {
+  color: #424874;
+}
+.skillrow{
+width: 50%;
+margin:  100px auto 100px auto;
+text-align:left;
+line-height: 2;
+
+}
+.hobbyrow{
+  width: 50%;
+  margin:  100px auto  0 auto;
+  text-align:left;
+  line-height: 2;
+
+}
+.anime{
+position: relative;
+bottom: 20px;
+}
+hr{
+  border:8px dotted ;
+  color: #00a8cc;
+
+height:0px;
+border-right: 0;
+border-left:0;
+border-bottom: 0;
+}
